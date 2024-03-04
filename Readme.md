@@ -29,7 +29,7 @@
 
   <div align="left">
   <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" height="100" alt="vscode logo"  />
-  <img width="50" />
+  <img width="30" />
   </div>
     
 
@@ -37,7 +37,7 @@
 
   <div align="left">
   <img src="https://global.discourse-cdn.com/business6/uploads/render/original/2X/a/ad2cd49c57c27455f695b61f3f8a01571697b336.svg" height="100" alt="render.com logo"  />
-  <img width="50" />
+  <img width="30" />
   </div>
 
   # Deployed Link:
