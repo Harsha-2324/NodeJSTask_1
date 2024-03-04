@@ -14,7 +14,10 @@
   - Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes.
 
   # Programming Language Used:
-    [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]
+    <div align="left">
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" height="100" alt="nodejs logo"  />
+  <img width="50" />
+  </div>
 
     [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]
 
