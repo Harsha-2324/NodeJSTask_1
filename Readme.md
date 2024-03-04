@@ -20,13 +20,25 @@
   <img width="50" />
   </div>
 
-    [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)]
+  <div align="left">
+  <img src="https://www.svgrepo.com/show/353724/express.svg" height="100" alt="expressjs logo"  />
+  <img width="50" />
+  </div>
 
   # Programming Tool Used:
-    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]
+
+  <div align="left">
+  <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" height="100" alt="vscode logo"  />
+  <img width="50" />
+  </div>
+    
 
   # Deployment Tool USed:
-    [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)]
+
+  <div align="left">
+  <img src="https://global.discourse-cdn.com/business6/uploads/render/original/2X/a/ad2cd49c57c27455f695b61f3f8a01571697b336.svg" height="100" alt="render.com logo"  />
+  <img width="50" />
+  </div>
 
   # Deployed Link:
   *Check out My NodeJS File System Here*👉🏻 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://nodejstask-1-6fbq.onrender.com)
