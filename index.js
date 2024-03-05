@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
     res
       .status(200)
       .send(
-        `<h1 style="text-align: center; color: blue;background-color: black;">Current TimeStamp: ${today}</h1><h3 style="text-align: center; color: red">This Timestamp data has been successfully saved <mark>Current_TimeStamp</mark> folder, Change the endpoint to <mark>/getTextFiles</mark> to view all the Timestamps.</h3>`
+        `<h1 style="text-align: center; color: blue;background-color: black;">Current TimeStamp: ${today}</h1><h3 style="text-align: center; color: red">This Timestamp data has been successfully saved to <mark>Current_TimeStamp</mark> folder, Change the endpoint to <mark>/getTextFiles</mark> to view all the Timestamps.</h3>`
       );
   } catch (error) {
     console.error(error);
