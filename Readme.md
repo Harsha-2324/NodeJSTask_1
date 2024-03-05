@@ -2,8 +2,16 @@
 
 **This repository is created for NodeJS File System**
 
-- This application creates a web server on `port 8000` with two endpoints. 
+- This application creates a web server on `port 8000` with two endpoints.
+  
+- `/`: Provides instructions to visit `/write` endpoint to save the current timestamp.
+   
+- `/write`: Saves the current timestamp to a file named `dd-mm-yyyy-hh-mm-ss.txt`.
+   
+- `/read`: Retrieves and displays the saved timestamp. 
+  
 - The root endpoint generates a text file in a folder named `Current_TimeStamp` containing the current timestamp and sends its content as a response. 
+  
 - The `/getTextFiles` endpoint retrieves and returns a list of all text files in the same folder.
 
 
